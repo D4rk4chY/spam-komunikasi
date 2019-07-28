@@ -13,51 +13,84 @@ troll(){
 clear
 echo
 echo "                  ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶"
+sleep 0.3
 echo "              ¶¶¶¶¶¶             ¶¶¶¶¶¶¶"
+sleep 0.3
 echo "           ¶¶¶¶                        ¶¶¶¶"
+sleep 0.3
 echo "          ¶¶¶                            ¶¶¶"
+sleep 0.3
 echo "         ¶¶      No System Is Safe         ¶¶"
+sleep 0.3
 echo "        ¶¶            Attacker             ¶¶"
+sleep 0.3
 echo "       ¶¶              HACKED               ¶¶"
+sleep 0.3
 echo "       ¶¶´¶¶          Phishing           ¶¶´¶¶"
+sleep 0.3
 echo "       ¶¶´¶¶                             ¶¶´´¶"
+sleep 0.3
 echo "       ¶¶´¶¶                             ¶¶´´¶"
+sleep 0.3
 echo "      ¶¶  ¶¶                            ¶¶´¶¶"
+sleep 0.3
 echo "       ¶¶´´¶¶                           ¶¶´´¶¶"
+sleep 0.3
 echo "        ¶¶´¶¶   ¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶   ¶¶´¶¶"
+sleep 0.3
 echo "         ¶¶¶¶´¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶ ¶¶¶¶¶"
+sleep 0.3
 echo "          ¶¶¶´¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶ ¶¶¶"
+sleep 0.3
 echo "  ¶¶¶      ¶¶  ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶¶¶  ¶¶      ¶¶¶¶"
+sleep 0.3
 echo " ¶¶¶¶¶    ¶¶   ¶¶¶¶¶¶¶   ¶¶¶   ¶¶¶¶¶¶¶   ¶¶    ¶¶¶¶¶¶"
+sleep 0.3
 echo "¶¶  ¶¶    ¶¶     ¶¶¶    ¶¶¶¶¶    ¶¶¶     ¶¶    ¶¶  ¶¶"
+sleep 0.3
 echo "¶¶   ¶¶¶¶  ¶¶          ¶¶¶¶¶¶¶          ¶¶  ¶¶¶¶   ¶¶¶"
-echo "¶        ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶        ¶¶¶¶¶¶¶¶¶       ¶¶"
+sleep 0.3
+echo "¶       ¶¶¶¶¶¶¶¶       ¶¶¶¶¶¶¶        ¶¶¶¶¶¶¶¶¶      ¶¶"
+sleep 0.3
 echo "¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶    ¶¶¶¶¶¶¶¶     ¶¶¶¶¶¶¶¶"
+sleep 0.3
 echo "¶¶¶¶ ¶¶¶¶¶     ¶¶¶¶¶  -D4rk4chy-  ¶¶¶ ¶¶    ¶¶¶¶¶¶ ¶¶¶"
+sleep 0.3
 echo "      ¶¶¶¶¶¶  ¶¶¶  ¶¶           ¶¶  ¶¶¶  ¶¶¶¶¶¶"        
-echo "             ¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶"
+sleep 0.3
+echo "           ¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶¶¶¶¶¶ ¶¶ ¶¶¶¶¶¶"
+sleep 0.3
 echo "                ¶¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶¶"
+sleep 0.3
 echo "              ¶¶¶¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶ ¶  ¶¶¶¶¶"
+sleep 0.3
 echo "          ¶¶¶¶¶ ¶¶  ¶¶¶¶¶¶¶¶¶¶¶¶¶  ¶¶ ¶¶¶¶¶"
+sleep 0.3
 echo "  ¶¶¶¶¶¶¶¶¶¶    ¶¶                 ¶¶     ¶¶¶¶¶¶¶¶¶"
+sleep 0.3
 echo " ¶¶          ¶¶¶¶¶¶¶             ¶¶¶¶¶¶¶¶         ¶¶"
+sleep 0.3
 echo "  ¶¶¶    ¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶     ¶¶¶¶¶    ¶¶¶"
+sleep 0.3
 echo "    ¶¶  ¶¶¶           ¶¶¶¶¶¶¶¶¶           ¶¶¶  ¶¶"
+sleep 0.3
 echo "    ¶¶ ¶¶                                   ¶¶ ¶¶"
+sleep 0.3
 echo "     ¶¶¶                                     ¶¶¶"
+sleep 0.3
 echo " ======================================================"
 sleep 2
-echo    " AUTHOR   : -D4rk4chy-"
-echo    " -------------------------------"
-echo    " YOUTUBE  : -Dek Achy Channel-"
-echo    " -------------------------------"
-echo    " TOOLS    : SPAM KOMUNIKASI TOOLS"
+echo    "AUTHOR   : -D4rk4chy-"
+echo    "-------------------------------"
+echo    "YOUTUBE  : -Dek Achy Channel-"
+echo    "-------------------------------"
+echo    "TOOLS    : SPAM KOMUNIKASI TOOLS"
 sleep 0.7
 echo " ======================================================"
 }
 load(){
     echo -e "\n"
-    bar=" -----------------------> "
+    bar=" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "
     barlength=${#bar}
     i=0
     while((i<100)); do
