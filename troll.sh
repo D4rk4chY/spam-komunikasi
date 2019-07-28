@@ -9,6 +9,18 @@
 #\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
 #PERINGATAN : KESALAHAN ATAU KEJAHATAN ADALAH TANGGUNG JAWAB DARI PEMAKAI
 #GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :)
+clear
+#ini warna
+bi='\033[34;1m' #biru
+i='\033[32;1m' #ijo
+pur='\033[35;1m' #purple
+cy='\033[36;1m' #cyan
+me='\033[31;1m' #merah
+pu='\033[37;1m' #putih
+ku='\033[33;1m' #kuning
+# Recode ajh mmnx
+echo
+echo
 troll(){
 clear
 echo
@@ -45,19 +57,19 @@ echo $me"    ¶¶¶     ¶¶¶¶¶     ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶     ¶¶¶
 echo $me"      ¶¶   ¶¶¶           ¶¶¶¶¶¶¶¶¶           ¶¶¶   ¶¶"
 echo $me"      ¶¶  ¶¶                                   ¶¶  ¶¶"
 echo $me"       ¶¶¶¶                                     ¶¶¶¶"
-    echo " ================================================================"
-    sleep 2
-	echo $i  "AUTHOR   : -D4rk4chy-"
-    echo $i  "-------------------------------"
-    echo $i  "YOUTUBE  : -Dek Achy Channel-"
-    echo $i  "-------------------------------"
-    echo $i  "TOOLS    : SPAM KOMUNIKASI TOOLS"
-    sleep 0.7
-    echo " ================================================================"
+echo " ==========================================================="
+sleep 2
+echo $i  "AUTHOR   : -D4rk4chy-"
+echo $i  "-------------------------------"
+echo $i  "YOUTUBE  : -Dek Achy Channel-"
+echo $i  "-------------------------------"
+echo $i  "TOOLS    : SPAM KOMUNIKASI TOOLS"
+sleep 0.7
+echo " ==========================================================="
 }
 load(){
     echo -e "\n"
-    bar=" >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> "
+    bar=" --------------------------> "
     barlength=${#bar}
     i=0
     while((i<100)); do
